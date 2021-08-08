@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">DSS FOR IFS</string>
+    <string name="welcome_to_d_s_s_for_ifs">welcome_to_d_s_s_for_ifs</string>
+    <string name="tab">tab</string>
+    <string name="tap_for_information">tap_for_information</string>
+    <string name="contact">contact</string>
+    <string name="why_ifs">why_ifs</string>
+    <string name="help">help</string>
+    <string name="state">/State</string>
+    <string name="select_a_state">select_a_state</string>
+    <string name="area">Area</string>
+    <string name="enter_area">enter_area</string>
+    <string name="show">show</string>
+    <string name="State">State</string>
+    <string name="Why_ifs">why ifs</string>
+    <string name="Tap_for_information">tap for information</string>
+    <string name="WELCOME_to_d_s_s_for_ifs">WELCOME TO D.S.S FOR IFS</string>
+    <string name="Tab">TAB</string>
+    <string name="Select_a_state">Select a state</string>
+    <string name="Enter_area">Enter area</string>
+
+
+    <string-array name="States">
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+    </string-array>
+
+</resources>
