@@ -23,7 +23,7 @@ public class Screen_4 extends AppCompatActivity {
 
     public void show()
     {
-        Cursor cursor=dataBase.getInfo();
+//        Cursor cursor=dataBase.getInfo();
 
     }
 
